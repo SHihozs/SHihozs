@@ -41,5 +41,5 @@
 <p align="center">
 <a href="mailto:ws.yanisa@gmail.com"><img src="https://img.shields.io/badge/-ws.yanisa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/SHihoz/"><img src="https://img.shields.io/badge/Yanisa-Suphatsathienkul-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://shihozz.wixsite.com/shihoz"><img src="https://img.shields.io/badge/SHihoz-000?style=flat&logo=wix&logoColor=white"/></a>
+<!--<a href="https://shihozz.wixsite.com/shihoz"><img src="https://img.shields.io/badge/SHihoz-000?style=flat&logo=wix&logoColor=white"/></a>-->
 </p>
