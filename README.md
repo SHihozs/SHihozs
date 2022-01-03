@@ -36,7 +36,7 @@
 <!--Line--:)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🤝 Connect Me
+### 🤝 Contact Me
 
 <p align="center">
 <a href="mailto:ws.yanisa@gmail.com"><img src="https://img.shields.io/badge/-ws.yanisa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
