@@ -9,12 +9,13 @@
 
 ### 👨🏻‍💻 About Me
 
-💻 I'm a junior in computer engineering from Mahidol University, Thailand.\
+💻 I'm a senior in computer engineering student from Mahidol University, Thailand.\
 🌟 I'm seeking an internship position in the field of Quality Assurance Engineer.\
 💖 I like to spend my time in improve my skills, Additionally reading📖, gaming🎮 and travelling 🧳.
 
 ### 🛠 Tech & Tool 
 
+![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=FF355E&logo=Python&logoColor=FFFFFF&label=Code)
 ![Java](https://img.shields.io/badge/Code-Java-FF355E?style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/Code-HTML5-FF355E?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/Code-CSS3-FF355E?style=flat&logo=css3&logoColor=white)&nbsp;
@@ -22,7 +23,9 @@
 ![IntelliJ Idea](https://img.shields.io/badge/IDE-IntelliJIDEA-AcidLime.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 ![VS](https://img.shields.io/badge/IDE-Visual_Studio_Code-AcidLime?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/Database-MySQL-FEF44E?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Design-Figma-FF6D32?style=flat&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Design-Figma-543DE0?style=flat&logo=figma&logoColor=white)&nbsp;
+![Robot Framework](https://img.shields.io/static/v1??style=flat&message=Robot+Framework&color=1C9AD6&logo=Robot+Framework&logoColor=FFFFFF&label=Framework)
+![Postman](https://img.shields.io/static/v1??style=flate&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=Tool)
 
 ### 📈 Stats
 
