@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 About Me
 
-💻 I'm a senior in computer engineering student from Mahidol University, Thailand.\
+💻 I'm a senior student in computer engineering student from Mahidol University, Thailand.\
 🌟 I'm seeking an internship position in the field of Quality Assurance Engineer.\
 💖 I like to spend my time in improve my skills, Additionally reading📖, gaming🎮 and travelling 🧳.
 
