@@ -11,26 +11,58 @@
 
 💻 I'm a senior student in computer engineering student from Mahidol University, Thailand.\
 🌟 I'm seeking a position in the field of Quality Assurance Engineer.\
+💪 I've had experience in an internship program in the position of Test Automation and Software Tester.\
 💖 I like to spend my time in improve my skills, Additionally reading📖, gaming🎮 and travelling 🧳.
 
 ### 🛠 Tech & Tool 
 
-![Python](https://img.shields.io/static/v1?style=flat&message=Python&color=FF355E&logo=Python&logoColor=FFFFFF&label=Code)
-![Java](https://img.shields.io/badge/Code-Java-FF355E?style=flat&logo=java&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/Code-HTML5-FF355E?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/Code-CSS3-FF355E?style=flat&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/Code-PHP-FF355E?style=flat&logo=php&logoColor=white)&nbsp;\
-![IntelliJ Idea](https://img.shields.io/badge/IDE-IntelliJIDEA-AcidLime.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
-![VS](https://img.shields.io/badge/IDE-Visual_Studio_Code-AcidLime?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;\
-![Mysql](https://img.shields.io/badge/Database-MySQL-FEF44E?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/static/v1?style=flat&message=MongoDB&color=FEF44E&logo=MongoDB&logoColor=FFFFFF&label=Database)&nbsp;\
-![Figma](https://img.shields.io/badge/Design-Figma-543DE0?style=flat&logo=figma&logoColor=white)&nbsp;\
-![Robot Framework](https://img.shields.io/static/v1?style=flat&message=Robot+Framework&color=1C9AD6&logo=Robot+Framework&logoColor=FFFFFF&label=Framework)&nbsp;
-![Flask](https://img.shields.io/static/v1?style=flat&message=Flask&color=1C9AD6&logo=Flask&logoColor=FFFFFF&label=Framework)&nbsp;
-![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=1C9AD6&logo=Vue.js&logoColor=FFFFFF&label=Framework)&nbsp;\
-![Postman](https://img.shields.io/static/v1??style=flat&message=Postman&color=D24939&logo=Postman&logoColor=FFFFFF&label=Tool)&nbsp;
-![Jenkins](https://img.shields.io/static/v1?style=flat&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=Tool)&nbsp;\
-![Unreal Engine](https://img.shields.io/static/v1?style=flate&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=Engine)
+##### <p align="center">❧ Programming Languages ☙</p>
+<p align="center">
+    <!--[Python]-->      <img src="https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/
+    <!--[CSS3]-->        <img src="https://img.shields.io/static/v1?style=flat&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/
+    <!--[PHP]-->         <img src="https://img.shields.io/static/v1?style=flat&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label="/
+    <!--[Java]-->        <img src="https://custom-icon-badges.demolab.com/badge/Java-FF4A35.svg?style=flat&logo=Java&logoColor=FFFFFF&label="/
+    <!--[HTML5]-->       <img src="https://img.shields.io/static/v1?style=flat&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/
+    <!--[JavaScript]-->  <img src="https://img.shields.io/static/v1?style=flat&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/
+</p>
+
+##### <p align="center">❧ IDE ☙</p>
+<p align="center">
+    <!--[VS]-->          <img src="https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="/
+    <!--[IntelliJ]-->    <img src="https://img.shields.io/static/v1?style=flat&message=IntelliJ+IDEA&color=8656C3&logo=IntelliJ+IDEA&logoColor=FFFFFF&label="/
+</p>
+    
+##### <p align="center">❧ Database ☙</p>
+<p align="center">
+    <!--[MySQL]-->       <img src="https://img.shields.io/static/v1?style=flat&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/
+    <!--[MongoDB]-->     <img src="https://img.shields.io/static/v1?style=flat&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="/
+    <!--[MariaDB]-->     <img src="https://img.shields.io/static/v1?style=flat&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label="/
+</p>
+    
+##### <p align="center">❧ Design ☙</p>
+<p align="center">
+    <!--[Figma]-->       <img src="https://img.shields.io/static/v1?style=flat&message=Figma&color=FF75D1&logo=Figma&logoColor=FFFFFF&label="/
+</p>
+    
+##### <p align="center">❧ Framework ☙</p>
+<p align="center">
+    <!--[Robot]-->        <img src="https://img.shields.io/static/v1?style=flat&message=Robot+Framework&color=58CFB2&logo=Robot+Framework&logoColor=FFFFFF&label="/
+    <!--[Vue.js]-->       <img src="https://img.shields.io/static/v1?style=flat&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/
+    <!--[Flask]-->        <img src="https://img.shields.io/static/v1?style=flat&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label="/
+</p>
+
+##### <p align="center">❧ Tools ☙</p>
+<p align="center">
+    <!--[Postman]-->      <img src="https://img.shields.io/static/v1?style=flat&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label="/
+    <!--[DBeaver]-->      <img src="https://custom-icon-badges.demolab.com/badge/DBeaver-E9967A.svg?style=flat&logo=DBeaver&logoColor=FFFFFF&label="/
+    <!--[Jenkins]-->      <img src="https://img.shields.io/static/v1?style=flat&message=Jenkins&color=CD5C5C&logo=Jenkins&logoColor=FFFFFF&label="/
+</p>
+    
+##### <p align="center">❧ Engine ☙</p>
+<p align="center">
+    <!--[Unreal]-->       <img src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label="/
+</p>
+
 
 ### 📈 Stats
 
