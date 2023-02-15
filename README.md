@@ -69,7 +69,7 @@
 <p align="center">
 <a href="https://github.com/SHihozs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHihozs&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHihozs&theme=radical&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHihozs&theme=radical&layout=compact&langs_count=15"/>
 </a>
 </p>
 
